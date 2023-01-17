@@ -1,0 +1,27 @@
+export Descriptor_Deck_GR_10_Flak_Brig_solo_Pion_GR_10FlaBrig is TDeckDescriptor
+(
+	DeckDivision = ~/Descriptor_Deck_Division_GR_10_Flak_Brig_solo
+	DeckIdentifier = 'Pion_GR_10FlaBrig'
+	Superior = ~/Descriptor_Unit_Pion_GR_AOK4
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_10FlaBrig_Feldtruppen
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_10FlaBrig_Stabskompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_10FlaBrig_le_Alarm_Flak_Batt__124_III
+			ExperienceLevel = 0
+		),
+	]
+)

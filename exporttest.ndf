@@ -1,0 +1,4413 @@
+export Descriptor_Deck_GR_10_Flak_Brig_solo_Pion_GR_10FlaBrig is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_10_Flak_Brig_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_10FlaBrig'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_AOK4
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_10FlaBrig_Feldtruppen
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_10FlaBrig_Stabskompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_10FlaBrig_le_Alarm_Flak_Batt__124_III
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_10_Flak_Brig_solo_Pion_GR_Flak21 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_10_Flak_Brig_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_Flak21'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_10FlaBrig
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Flak21_1___schw___Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Flak21_2___schw___Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Flak21_3___schw___Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Flak21_4___schw___Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Flak21_5___schw___Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Flak21_Feldtruppen
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Flak21_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_10_Flak_Brig_solo_Pion_GR_Flak303 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_10_Flak_Brig_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_Flak303'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_10FlaBrig
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Flak303_1___schw___Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Flak303_2___schw___Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Flak303_3___schw___Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Flak303_4___le___Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Flak303_5___le___Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Flak303_Feldtruppen
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Flak303_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_10_Flak_Brig_solo_Pion_GR_leFla853 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_10_Flak_Brig_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_leFla853'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_10FlaBrig
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_leFla853_1__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_leFla853_2__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_leFla853_3__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_leFla853_4__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_leFla853_Feldtruppen
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_leFla853_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_12_Panzer_solo_Pion_GR_12Pz is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_12_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_12Pz'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_KGLindig
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_12Pz_Divisionsbegleitkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_12Pz_Stabskompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_FEB2_1__Kompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_12_Panzer_solo_Pion_GR_PzAR92_1 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_12_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzAR92_1'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_12Pz
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAR92_1_1__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAR92_1_2__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAR92_1_4__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAR92_1_5__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAR92_1_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_12_Panzer_solo_Pion_GR_PzGR25 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_12_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzGR25'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_12Pz
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR25_10___IG__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR25_9___Pio___Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR25_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_12_Panzer_solo_Pion_GR_PzGR25_1 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_12_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzGR25_1'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_PzGR25
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR25_1_3__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR25_1_4___schw___Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR25_1_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_12_Panzer_solo_Pion_GR_PzGR25_2 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_12_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzGR25_2'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_PzGR25
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR25_2_5__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR25_2_6__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR25_2_7__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR25_2_8___schw___Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR25_2_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_12_Panzer_solo_Pion_GR_PzGR5 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_12_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzGR5'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_12Pz
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR5_10___IG__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR5_9___Pio___Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR5_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_12_Panzer_solo_Pion_GR_PzGR5_1 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_12_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzGR5_1'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_PzGR5
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR5_1_1__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR5_1_2__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR5_1_3__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR5_1_4___schw___Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR5_1_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_12_Panzer_solo_Pion_GR_PzGR5_2 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_12_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzGR5_2'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_PzGR5
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR5_2_5__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR5_2_6__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR5_2_7__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR5_2_8___schw___Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR5_2_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_12_Panzer_solo_Pion_GR_PzPio32 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_12_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzPio32'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_12Pz
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzPio32_1__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzPio32_2__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzPio32_3__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzPio32_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_12_Panzer_solo_Pion_GR_PzR29 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_12_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzR29'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_12Pz
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzR29_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_12_Panzer_solo_Pion_GR_PzR29_2 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_12_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzR29_2'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_PzR29
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzR29_2_5__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzR29_2_6__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzR29_2_7__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzR29_2_Stabskompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzR29_2_Teile_Pz_Jag_Abt__2
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_12_Panzer_solo_Pion_GR_Vorgard is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_12_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_Vorgarde'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_PzR29
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Vorgarde_1__PzGrenadier_Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Vorgarde_2__PzGrenadier_Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Vorgarde_8__Panzer_Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Vorgarde_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_14_Inf_solo_Pion_GR_11IR is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_14_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_11IR'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_14ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_11IR_13___IG__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_11IR_14___PaK__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_11IR_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_14_Inf_solo_Pion_GR_11IR_1 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_14_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_11IR_1'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_11IR
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_11IR_1_1__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_11IR_1_2__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_11IR_1_3__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_11IR_1_4___schwere__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_11IR_1_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_14_Inf_solo_Pion_GR_11IR_2 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_14_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_11IR_2'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_11IR
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_11IR_2_5__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_11IR_2_6__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_11IR_2_7__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_11IR_2_8___schwere__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_11IR_2_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_14_Inf_solo_Pion_GR_11IR_3 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_14_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_11IR_3'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_11IR
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_11IR_3_10__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_11IR_3_11__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_11IR_3_12___schwere__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_11IR_3_9__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_11IR_3_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_14_Inf_solo_Pion_GR_14I is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_14_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_14ID'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_AOK4
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_14ID_Divisionsbegleitkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_14ID_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_1_Flieger_Div_Pion_GR_JAG51_1 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_1_Flieger_Div
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_JAG51_1'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_FlieDiv1
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_JAG51_1_1__Staffel
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_JAG51_1_2__Staffel
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_JAG51_1_3__Staffel
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_JAG51_1_Gruppenstab
+			ExperienceLevel = 2
+		),
+	]
+)
+export Descriptor_Deck_GR_1_Flieger_Div_Pion_GR_NAG4 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_1_Flieger_Div
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_NAG4'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_FlieDiv1
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_NAG4_1__Staffel
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_1_Flieger_Div_Pion_GR_NAG4_2 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_1_Flieger_Div
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_NAG4_2'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_FlieDiv1
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_NAG4_2__Staffel
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_1_Flieger_Div_Pion_GR_NAG4_3 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_1_Flieger_Div
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_NAG4_3'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_FlieDiv1
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_NAG4_3__Staffel
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_1_Flieger_Div_Pion_GR_NAG5 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_1_Flieger_Div
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_NAG5'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_FlieFu1
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_NAG5_1__Staffel
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_1_Flieger_Div_Pion_GR_Sch1G_1 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_1_Flieger_Div
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_Sch1G_1'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_FlieDiv1
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Sch1G_1_1__Staffel
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Sch1G_1_2__Staffel
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Sch1G_1_3__Staffel
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Sch1G_1_Gruppenstab
+			ExperienceLevel = 2
+		),
+	]
+)
+export Descriptor_Deck_GR_1_Flieger_Fu_Pion_GR_NSGr1 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_1_Flieger_Fu
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_NSGr1'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_FlieFu1
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_NSGr1_1__Staffel
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_NSGr1_2__Staffel
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_NSGr1_Gruppenstab
+			ExperienceLevel = 2
+		),
+	]
+)
+export Descriptor_Deck_GR_1_Flieger_Fu_Pion_GR_NSGr2 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_1_Flieger_Fu
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_NSGr2'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_FlieFu1
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_NSGr2_1__Staffel
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_NSGr2_3__Staffel
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_NSGr2_4__Staffel
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_NSGr2_Gruppenstab
+			ExperienceLevel = 2
+		),
+	]
+)
+export Descriptor_Deck_GR_20_Panzer_solo_Pion_GR_20Pz is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_20_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_20Pz'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_Hoffmeister
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_20Pz_Divisionsbegleitkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_20Pz_Stabskompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_FEB92_1__Kompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_20_Panzer_solo_Pion_GR_PzAA20 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_20_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzAA20'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_20Pz
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAA20_1__Marschkompanie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAA20_2__Marschkompanie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAA20_Rest__der_Pz_Jag_Abt_92
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAA20_Stabskompanie
+			ExperienceLevel = 2
+		),
+	]
+)
+export Descriptor_Deck_GR_20_Panzer_solo_Pion_GR_PzAR92_2 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_20_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzAR92_2'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_20Pz
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAR92_2_Leichte_Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAR92_2_Rest__der_Flak_Abt_295
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAR92_2_Schwere_Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAR92_2_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_20_Panzer_solo_Pion_GR_PzGR59 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_20_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzGR59'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_20Pz
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR59_1__Marschkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR59_2__Marschkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR59_Geschutz__Kie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR59_Rest__der_Pio_Abt_92
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR59_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_20_Panzer_solo_Pion_GR_PzGr112 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_20_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzGr112'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_20Pz
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGr112_1__Marschkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGr112_2__Marschkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGr112_3__Marschkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGr112_Geschutz__Kie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGr112_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_20_Panzer_solo_Pion_GR_PzGruppe_20 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_20_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzGruppe_20'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_20Pz
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGruppe_20_Rest__der_Panzer_Artillerie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGruppe_20_Rest__der_Pz_Abt__21
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGruppe_20_Rest__der_Pz_Jag_Abt__743
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGruppe_20_Rest__der_StuG_Brig__244
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGruppe_20_Rest__der_gepz__Infanterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGruppe_20_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_256_Inf_solo_Pion_GR_256I is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_256_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_256ID'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_AOK4
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_256ID_Divisionsbegleitkompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_256ID_Stabskompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_FEB256_1__Kompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_256_Inf_solo_Pion_GR_456IR is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_256_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_456IR'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_256ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_456IR_13___IG__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_456IR_14___PaK__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_456IR_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_256_Inf_solo_Pion_GR_456IR_1 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_256_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_456IR_1'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_456IR
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_456IR_1_1__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_456IR_1_2__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_456IR_1_3__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_456IR_1_4___schwere__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_456IR_1_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_256_Inf_solo_Pion_GR_456IR_2 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_256_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_456IR_2'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_456IR
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_456IR_2_5__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_456IR_2_6__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_456IR_2_7__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_456IR_2_8___schwere__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_456IR_2_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_256_Inf_solo_Pion_GR_456IR_3 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_256_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_456IR_3'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_456IR
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_456IR_3_10__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_456IR_3_11__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_456IR_3_12___schwere__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_456IR_3_9__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_456IR_3_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_256_Inf_solo_Pion_GR_476IR is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_256_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_476IR'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_256ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_476IR_13___IG__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_476IR_14___PaK__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_476IR_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_256_Inf_solo_Pion_GR_476IR_1 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_256_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_476IR_1'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_476IR
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_476IR_1_1__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_476IR_1_2__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_476IR_1_3__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_476IR_1_4___schwere__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_476IR_1_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_256_Inf_solo_Pion_GR_476IR_2 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_256_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_476IR_2'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_476IR
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_476IR_2_5__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_476IR_2_6__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_476IR_2_7__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_476IR_2_8___schwere__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_476IR_2_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_256_Inf_solo_Pion_GR_476IR_3 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_256_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_476IR_3'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_476IR
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_476IR_3_10__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_476IR_3_11__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_476IR_3_12___schwere__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_476IR_3_9__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_476IR_3_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_256_Inf_solo_Pion_GR_481IR is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_256_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_481IR'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_256ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_481IR_13___IG__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_481IR_14___PaK__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_481IR_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_256_Inf_solo_Pion_GR_481IR_1 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_256_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_481IR_1'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_481IR
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_481IR_1_1__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_481IR_1_2__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_481IR_1_3__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_481IR_1_4___schwere__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_481IR_1_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_256_Inf_solo_Pion_GR_481IR_2 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_256_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_481IR_2'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_481IR
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_481IR_2_5__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_481IR_2_6__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_481IR_2_7__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_481IR_2_8___schwere__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_481IR_2_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_256_Inf_solo_Pion_GR_AR256_1 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_256_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_AR256_1'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_256ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR256_1_1__Batterie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR256_1_2__Batterie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR256_1_3__Batterie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR256_1_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_256_Inf_solo_Pion_GR_AR256_2 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_256_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_AR256_2'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_256ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR256_2_4__Batterie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR256_2_5__Batterie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR256_2_6__Batterie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR256_2_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_256_Inf_solo_Pion_GR_AR256_3 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_256_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_AR256_3'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_256ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR256_3_7__Batterie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR256_3_8__Batterie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR256_3_9__Batterie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR256_3_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_256_Inf_solo_Pion_GR_AR256_4 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_256_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_AR256_4'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_256ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR256_4_10__Batterie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR256_4_11__Batterie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR256_4_12__Batterie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR256_4_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_256_Inf_solo_Pion_GR_FusB256 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_256_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_FusB256'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_256ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_FusB256_1__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_FusB256_2__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_FusB256_3__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_FusB256_4___schwere__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_FusB256_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_256_Inf_solo_Pion_GR_Pio256 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_256_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_Pio256'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_256ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Pio256_1__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Pio256_2__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Pio256_3__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Pio256_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_256_Inf_solo_Pion_GR_PzJ256 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_256_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzJ256'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_256ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzJ256_1___Sf__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzJ256_3___Flak__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzJ256_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_25_PzGrenadier_solo_Pion_GR_25PzG is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_25_PzGrenadier_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_25PzG'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_XXVIIAK
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_25PzG_Divisionsbegleitkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_25PzG_Stabskompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_FEB25_1__Kompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_25_PzGrenadier_solo_Pion_GR_AR25_1 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_25_PzGrenadier_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_AR25_1'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_25PzG
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR25_1_1__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR25_1_2__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR25_1_3__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR25_1_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_25_PzGrenadier_solo_Pion_GR_AR25_2 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_25_PzGrenadier_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_AR25_2'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_25PzG
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR25_2_4__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR25_2_5__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR25_2_6__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR25_2_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_25_PzGrenadier_solo_Pion_GR_AR25_3 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_25_PzGrenadier_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_AR25_3'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_25PzG
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR25_3_10__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR25_3_7__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR25_3_8__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR25_3_9__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR25_3_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_25_PzGrenadier_solo_Pion_GR_Pio25 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_25_PzGrenadier_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_Pio25'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_25PzG
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Pio25_1__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Pio25_2__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Pio25_3__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Pio25_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_25_PzGrenadier_solo_Pion_GR_PzAA125 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_25_PzGrenadier_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzAA125'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_25PzG
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAA125_1__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAA125_2__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAA125_3__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAA125_4__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAA125_5__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAA125_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_25_PzGrenadier_solo_Pion_GR_PzAb8 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_25_PzGrenadier_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzAb8'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_25PzG
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAb8_1__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAb8_2__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAb8_3__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAb8_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_25_PzGrenadier_solo_Pion_GR_PzGR119 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_25_PzGrenadier_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzGR119'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_25PzG
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR119_13___Flak__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR119_14___IG__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR119_15___Pio___Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR119_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_25_PzGrenadier_solo_Pion_GR_PzGR119_1 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_25_PzGrenadier_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzGR119_1'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_PzGR119
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR119_1_1__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR119_1_2__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR119_1_3__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR119_1_4___schw___Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR119_1_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_25_PzGrenadier_solo_Pion_GR_PzGR119_2 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_25_PzGrenadier_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzGR119_2'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_PzGR119
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR119_2_5__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR119_2_6__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR119_2_7__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR119_2_8___schw___Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR119_2_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_25_PzGrenadier_solo_Pion_GR_PzGR119_3 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_25_PzGrenadier_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzGR119_3'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_PzGR119
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR119_3_10__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR119_3_11__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR119_3_12___schw___Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR119_3_9__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR119_3_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_25_PzGrenadier_solo_Pion_GR_PzGR35 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_25_PzGrenadier_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzGR35'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_25PzG
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR35_13___Flak__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR35_14___IG__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR35_15___Pio___Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR35_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_25_PzGrenadier_solo_Pion_GR_PzGR35_1 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_25_PzGrenadier_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzGR35_1'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_PzGR35
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR35_1_1__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR35_1_2__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR35_1_3__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR35_1_4___schw___Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR35_1_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_25_PzGrenadier_solo_Pion_GR_PzGR35_2 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_25_PzGrenadier_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzGR35_2'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_PzGR35
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR35_2_5__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR35_2_6__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR35_2_7__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR35_2_8___schw___Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR35_2_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_25_PzGrenadier_solo_Pion_GR_PzGR35_3 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_25_PzGrenadier_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzGR35_3'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_PzGR35
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR35_3_10__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR35_3_11__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR35_3_12___schw___Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR35_3_9__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR35_3_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_25_PzGrenadier_solo_Pion_GR_PzJ125 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_25_PzGrenadier_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzJ125'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_25PzG
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzJ125_1___Sf___Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzJ125_2___Sf___Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzJ125_3__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzJ125_4___Flak__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzJ125_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_260_Inf_solo_Pion_GR_260I is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_260_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_260ID'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_XXVIIAK
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_260ID_Divisionsbegleitkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_260ID_Stabskompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_FEB260_1__Kompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_260_Inf_solo_Pion_GR_460IR is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_260_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_460IR'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_260ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_460IR_13___IG__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_460IR_14___PaK__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_460IR_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_260_Inf_solo_Pion_GR_460IR_1 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_260_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_460IR_1'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_460IR
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_460IR_1_1__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_460IR_1_2__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_460IR_1_3__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_460IR_1_4___schwere__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_460IR_1_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_260_Inf_solo_Pion_GR_460IR_2 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_260_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_460IR_2'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_460IR
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_460IR_2_5__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_460IR_2_6__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_460IR_2_7__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_460IR_2_8___schwere__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_460IR_2_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_260_Inf_solo_Pion_GR_460IR_3 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_260_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_460IR_3'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_460IR
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_460IR_3_10__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_460IR_3_11__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_460IR_3_12___schwere__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_460IR_3_9__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_460IR_3_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_260_Inf_solo_Pion_GR_470IR is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_260_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_470IR'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_260ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_470IR_13___IG__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_470IR_14___PaK__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_470IR_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_260_Inf_solo_Pion_GR_470IR_1 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_260_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_470IR_1'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_470IR
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_470IR_1_1__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_470IR_1_2__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_470IR_1_3__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_470IR_1_4___schwere__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_470IR_1_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_260_Inf_solo_Pion_GR_470IR_2 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_260_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_470IR_2'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_470IR
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_470IR_2_5__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_470IR_2_6__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_470IR_2_7__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_470IR_2_8___schwere__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_470IR_2_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_260_Inf_solo_Pion_GR_480IR is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_260_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_480IR'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_260ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_480IR_13___IG__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_480IR_14___PaK__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_480IR_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_260_Inf_solo_Pion_GR_480IR_1 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_260_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_480IR_1'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_480IR
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_480IR_1_1__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_480IR_1_2__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_480IR_1_3__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_480IR_1_4___schwere__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_480IR_1_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_260_Inf_solo_Pion_GR_480IR_2 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_260_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_480IR_2'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_480IR
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_480IR_2_5__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_480IR_2_6__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_480IR_2_7__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_480IR_2_8___schwere__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_480IR_2_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_260_Inf_solo_Pion_GR_AR260_1 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_260_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_AR260_1'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_260ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR260_1_1__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR260_1_2__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR260_1_3__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR260_1_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_260_Inf_solo_Pion_GR_AR260_2 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_260_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_AR260_2'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_260ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR260_2_4__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR260_2_5__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR260_2_6__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR260_2_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_260_Inf_solo_Pion_GR_AR260_3 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_260_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_AR260_3'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_260ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR260_3_7__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR260_3_8__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR260_3_9__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR260_3_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_260_Inf_solo_Pion_GR_AR260_4 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_260_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_AR260_4'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_260ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR260_4_10__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR260_4_11__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR260_4_12__Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR260_4_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_260_Inf_solo_Pion_GR_FusB260 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_260_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_FusB260'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_260ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_FusB260_1__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_FusB260_2__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_FusB260_3__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_FusB260_4___schwere__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_FusB260_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_260_Inf_solo_Pion_GR_Pio653 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_260_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_Pio653'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_260ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Pio653_1__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Pio653_2__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Pio653_3__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Pio653_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_260_Inf_solo_Pion_GR_PzJ260 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_260_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzJ260'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_260ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzJ260_1___PaK__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzJ260_3___PaK__Kompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzJ260_Panzer_Kompanie_260
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzJ260_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_286_SD_solo_Pion_GR_286S is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_286_SD_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_286SD'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_AOK4
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_286SD_Divisionsbegleitkompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_286SD_Ost_Reiter_Schwadron_286
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_286SD_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_286_SD_solo_Pion_GR_2SR is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_286_SD_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_2SR'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_286SD
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_2SR_Aufklarungs_Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_2SR_PaK_Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_2SR_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_286_SD_solo_Pion_GR_2SR_1 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_286_SD_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_2SR_1'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_2SR
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_2SR_1_1__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_2SR_1_2__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_2SR_1_3__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_2SR_1_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_286_SD_solo_Pion_GR_2SR_2 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_286_SD_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_2SR_2'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_2SR
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_2SR_2_4__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_2SR_2_5__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_2SR_2_6__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_2SR_2_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_286_SD_solo_Pion_GR_2SR_3 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_286_SD_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_2SR_3'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_2SR
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_2SR_3_7__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_2SR_3_8__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_2SR_3_9__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_2SR_3_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_286_SD_solo_Pion_GR_555LSB is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_286_SD_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_555LSB'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_286SD
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_555LSB_1__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_555LSB_2__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_555LSB_3__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_555LSB_4___Ost__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_555LSB_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_286_SD_solo_Pion_GR_61SR is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_286_SD_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_61SR'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_286SD
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_61SR_IG_Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_61SR_PaK_Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_61SR_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_286_SD_solo_Pion_GR_61SR_1 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_286_SD_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_61SR_1'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_61SR
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_61SR_1_1__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_61SR_1_2__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_61SR_1_3__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_61SR_1_4___schw___Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_61SR_1_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_286_SD_solo_Pion_GR_61SR_2 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_286_SD_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_61SR_2'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_61SR
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_61SR_2_5__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_61SR_2_6__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_61SR_2_7__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_61SR_2_8___schw___Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_61SR_2_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_286_SD_solo_Pion_GR_61SR_3 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_286_SD_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_61SR_3'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_61SR
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_61SR_3_9__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_61SR_3_10__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_61SR_3_11__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_61SR_3_12___schw___Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_61SR_3_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_286_SD_solo_Pion_GR_794SB is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_286_SD_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_794SB'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_286SD
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_794SB_1__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_794SB_2__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_794SB_3__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_794SB_4___schw___Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_794SB_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_286_SD_solo_Pion_GR_AR213_2 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_286_SD_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_AR213_2'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_286SD
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR213_2_4__Batterie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR213_2_5__Batterie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR213_2_6__Batterie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR213_2_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_36_Inf_solo_Pion_GR_118IR_ is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_36_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_118IR_T'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_36ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_118IR_T_1__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_118IR_T_2__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_118IR_T_3__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_118IR_T_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_36_Inf_solo_Pion_GR_36I is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_36_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_36ID'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_Hoffmeister
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_36ID_Fusilier_Marschkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_36ID_Panzerjager_Marschkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_36ID_Pionier_Marschkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_36ID_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_36_Inf_solo_Pion_GR_87IR_ is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_36_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_87IR_T'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_36ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_87IR_T_1__Marschkompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_87IR_T_2__Marschkompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_87IR_T_3__Marschkompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_87IR_T_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_383_ID_solo_Pion_GR_383I is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_383_ID_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_383ID'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_Hoffmeister
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_383ID_Fusilier_Marschkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_383ID_Panzerjager_Marschkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_383ID_Pionier_Marschkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_383ID_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_383_ID_solo_Pion_GR_531IR_ is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_383_ID_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_531IR_T'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_383ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_531IR_T_1__Marschkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_531IR_T_2__Marschkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_531IR_T_3__Marschkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_531IR_T_4__Marschkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_531IR_T_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_383_ID_solo_Pion_GR_532IR_ is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_383_ID_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_532IR_T'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_383ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_532IR_T_1__Marschkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_532IR_T_2__Marschkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_532IR_T_3__Marschkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_532IR_T_4__Marschkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_532IR_T_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_383_ID_solo_Pion_GR_533IR_ is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_383_ID_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_533IR_T'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_383ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_533IR_T_1__Marschkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_533IR_T_2__Marschkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_533IR_T_3__Marschkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_533IR_T_4__Marschkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_533IR_T_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_383_ID_solo_Pion_GR_750LSB is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_383_ID_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_750LSB'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_383ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_750LSB_1__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_750LSB_2__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_750LSB_3__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_750LSB_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_383_ID_solo_Pion_GR_AR383_ is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_383_ID_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_AR383_T'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_383ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR383_T_1__Leichte_Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR383_T_2__Leichte_Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR383_T_Schwere_Batterie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_AR383_T_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_45_Inf_solo_Pion_GR_130IR_ is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_45_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_130IR_T'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_45ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_130IR_T_1__Marschkompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_130IR_T_2__Marschkompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_130IR_T_3__Marschkompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_130IR_T_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_45_Inf_solo_Pion_GR_133IR_ is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_45_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_133IR_T'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_45ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_133IR_T_1__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_133IR_T_2__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_133IR_T_3__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_133IR_T_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_45_Inf_solo_Pion_GR_135IR_ is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_45_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_135IR_T'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_45ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_135IR_T_1__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_135IR_T_2__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_135IR_T_3__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_135IR_T_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_45_Inf_solo_Pion_GR_45I is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_45_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_45ID'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_Hoffmeister
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_45ID_Fusilier_Marschkompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_45ID_Panzerjager_Marschkompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_45ID_Pionier_Marschkompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_45ID_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_45_Inf_solo_Pion_GR_6DGr_ is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_45_Inf_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_6DGr_T'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_45ID
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_6DGr_T_1__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_6DGr_T_2__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_6DGr_T_3__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_6DGr_T_Stabskompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_47_AK_solo_Pion_GR_XXVIIAK is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_47_AK_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_XXVIIAK'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_AOK4
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_XXVIIAK_Divisionsbegleitkompanie
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_XXVIIAK_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_4_Flieger_Div_Pion_GR_JAG51_3 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_4_Flieger_Div
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_JAG51_3'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_FlieDiv4
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_JAG51_3_1__Staffel
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_JAG51_3_2__Staffel
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_JAG51_3_3__Staffel
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_JAG51_3_Gruppenstab
+			ExperienceLevel = 2
+		),
+	]
+)
+export Descriptor_Deck_GR_4_Flieger_Div_Pion_GR_NJG100_1 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_4_Flieger_Div
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_NJG100_1'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_FlieDiv4
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_NJG100_1_1__Staffel
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_NJG100_1_2__Staffel
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_NJG100_1_3__Staffel
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_NJG100_1_Gruppenstab
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_4_Flieger_Div_Pion_GR_SchG1_3 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_4_Flieger_Div
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_SchG1_3'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_FlieDiv4
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_SchG1_3_7__Staffel
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_SchG1_3_8__Staffel
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_SchG1_3_9__Staffel
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_SchG1_3_Gruppenstab
+			ExperienceLevel = 2
+		),
+	]
+)
+export Descriptor_Deck_GR_4_Flieger_Korps_Pion_GR_KG4_2 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_4_Flieger_Korps
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_KG4_2'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_FlieKorps4
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_KG4_2_1__Staffel
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_KG4_2_2__Staffel
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_KG4_2_3__Staffel
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_KG4_2_Gruppenstab
+			ExperienceLevel = 2
+		),
+	]
+)
+export Descriptor_Deck_GR_4_Flieger_Korps_Pion_GR_KG4_3 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_4_Flieger_Korps
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_KG4_3'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_FlieKorps4
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_KG4_3_1__Staffel
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_KG4_3_2__Staffel
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_KG4_3_3__Staffel
+			ExperienceLevel = 1
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_KG4_3_Gruppenstab
+			ExperienceLevel = 2
+		),
+	]
+)
+export Descriptor_Deck_GR_5_Panzer_solo_Pion_GR_5Pz is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_5_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_5Pz'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_vSauck
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_5Pz_Divisionsbegleitkompanie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_5Pz_Stabskompanie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_FEB116_1__Kompanie
+			ExperienceLevel = 0
+		),
+	]
+)
+export Descriptor_Deck_GR_5_Panzer_solo_Pion_GR_FEB116 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_5_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_FEB116'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_5Pz
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_FEB116_1__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_FEB116_2__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_FEB116_3___MG__Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_FEB116_4___Gesch___Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_FEB116_5___Pio___Kompanie
+			ExperienceLevel = 0
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_FEB116_Stabskompanie
+			ExperienceLevel = 1
+		),
+	]
+)
+export Descriptor_Deck_GR_5_Panzer_solo_Pion_GR_Flak288 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_5_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_Flak288'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_5Pz
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Flak288_1__Kompanie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Flak288_2__Kompanie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Flak288_3__Kompanie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Flak288_Stabskompanie
+			ExperienceLevel = 2
+		),
+	]
+)
+export Descriptor_Deck_GR_5_Panzer_solo_Pion_GR_Pz505 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_5_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_Pz505'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_5Pz
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Pz505_1__Kompanie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Pz505_2__Kompanie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Pz505_3__Kompanie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_Pz505_Stabskompanie
+			ExperienceLevel = 2
+		),
+	]
+)
+export Descriptor_Deck_GR_5_Panzer_solo_Pion_GR_PzAA5 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_5_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzAA5'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_5Pz
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAA5_1__Kompanie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAA5_4___schwere__Kompanie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAA5_Stabskompanie
+			ExperienceLevel = 2
+		),
+	]
+)
+export Descriptor_Deck_GR_5_Panzer_solo_Pion_GR_PzAR116_1 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_5_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzAR116_1'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_5Pz
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAR116_1_1__Batterie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAR116_1_2__Batterie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAR116_1_3__Batterie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAR116_1_Stabskompanie
+			ExperienceLevel = 2
+		),
+	]
+)
+export Descriptor_Deck_GR_5_Panzer_solo_Pion_GR_PzAR116_2 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_5_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzAR116_2'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_5Pz
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAR116_2_4__Batterie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAR116_2_5__Batterie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAR116_2_Stabskompanie
+			ExperienceLevel = 2
+		),
+	]
+)
+export Descriptor_Deck_GR_5_Panzer_solo_Pion_GR_PzAR116_3 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_5_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzAR116_3'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_5Pz
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAR116_3_6__Batterie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAR116_3_7__Batterie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAR116_3_8__Batterie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzAR116_3_Stabskompanie
+			ExperienceLevel = 2
+		),
+	]
+)
+export Descriptor_Deck_GR_5_Panzer_solo_Pion_GR_PzGR13 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_5_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzGR13'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_5Pz
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR13_10___IG__Kompanie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR13_9___Pio___Kompanie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR13_Stabskompanie
+			ExperienceLevel = 2
+		),
+	]
+)
+export Descriptor_Deck_GR_5_Panzer_solo_Pion_GR_PzGR13_1 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_5_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzGR13_1'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_PzGR13
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR13_1_1__Kompanie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR13_1_2__Kompanie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR13_1_3__Kompanie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR13_1_4___schw___Kompanie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR13_1_Stabskompanie
+			ExperienceLevel = 2
+		),
+	]
+)
+export Descriptor_Deck_GR_5_Panzer_solo_Pion_GR_PzGR13_2 is TDeckDescriptor
+(
+	DeckDivision = DeckDivision = ~/Descriptor_Deck_Division_GR_5_Panzer_solo
+	DeckIdentifier = DeckIdentifier = 'Pion_GR_PzGR13_2'
+	Superior = Superior = ~/Descriptor_Unit_Pion_GR_PzGR13
+	DeckPackList = 
+	[
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR13_2_5__Kompanie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR13_2_6__Kompanie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR13_2_7__Kompanie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR13_2_8___schw___Kompanie
+			ExperienceLevel = 2
+		),
+		TDeckPackDescription
+		(
+			Quantity = 1
+			DeckPack = ~/Descriptor_Deck_Pack_Pion_GR_PzGR13_2_Stabskompanie
+			ExperienceLevel = 2
+		),
+	]
+)
